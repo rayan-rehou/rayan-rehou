@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="300" viewBox="0 0 1500 300">
+  <defs>
+    <!-- background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#01030c"/>
+      <stop offset="60%" stop-color="#04112e"/>
+      <stop offset="100%" stop-color="#0a2a66"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.55" r="0.5">
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#1e3a8a" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="floorFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.55"/>
+    </linearGradient>
+    <mask id="floorMask">
+      <rect x="0" y="232" width="1500" height="68" fill="url(#floorFade)"/>
+    </mask>
+
+    <!-- name fill: bright chrome-ice -->
+    <linearGradient id="nameFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="45%" stop-color="#bae6fd"/>
+      <stop offset="55%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+
+    <!-- light sweep across the name -->
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="neon" x="-10%" y="-60%" width="120%" height="220%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="14" result="b1"/>
+      <feFlood flood-color="#0ea5e9" flood-opacity="0.9"/>
+      <feComposite in2="b1" operator="in" result="g1"/>
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="b2"/>
+      <feFlood flood-color="#7dd3fc"/>
+      <feComposite in2="b2" operator="in" result="g2"/>
+      <feMerge>
+        <feMergeNode in="g1"/><feMergeNode in="g1"/>
+        <feMergeNode in="g2"/><feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="soft" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" fill-opacity="0.35"/>
+    </pattern>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#60a5fa" fill-opacity="0.18"/>
+    </pattern>
+
+    <clipPath id="nameClip">
+      <text x="750" y="182" text-anchor="middle"
+            font-family="'Eurostile','Orbitron','Bank Gothic','Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif"
+            font-size="124" font-weight="900" textLength="1060" lengthAdjust="spacingAndGlyphs">RAYAN REHOU</text>
+    </clipPath>
+
+    <style>
+      .sweep { animation: sweep 4.5s cubic-bezier(.6,0,.4,1) infinite; }
+      @keyframes sweep { 0% { transform: translateX(-500px) } 60%,100% { transform: translateX(1300px) } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      .d2 { animation-delay: .8s } .d3 { animation-delay: 1.6s }
+      @keyframes pulse { 0%,100% { opacity: .2 } 50% { opacity: 1 } }
+      .blink { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+      .flow { stroke-dasharray: 6 14; animation: flow 1.6s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -40 } }
+    </style>
+  </defs>
+
+  <!-- ===== BACKGROUND ===== -->
+  <rect width="1500" height="300" fill="url(#bg)"/>
+  <rect width="1500" height="300" fill="url(#dots)"/>
+  <ellipse cx="750" cy="165" rx="720" ry="190" fill="url(#halo)"/>
+
+  <!-- perspective floor grid -->
+  <g mask="url(#floorMask)" stroke="#60a5fa" stroke-width="1.2" fill="none">
+    <path d="M0 240H1500M0 248H1500M0 259H1500M0 274H1500M0 295H1500"/>
+    <path d="M750 232L750 300M750 232L600 300M750 232L450 300M750 232L300 300M750 232L150 300M750 232L0 300M750 232L-150 300M750 232L-300 300
+             M750 232L900 300M750 232L1050 300M750 232L1200 300M750 232L1350 300M750 232L1500 300M750 232L1650 300M750 232L1800 300"/>
+  </g>
+  <rect x="0" y="231" width="1500" height="2" fill="url(#horizon)"/>
+  <rect x="300" y="229" width="900" height="6" fill="url(#horizon)" filter="url(#soft)" opacity="0.8"/>
+
+  <!-- ===== CIRCUIT TRACES (chip theme) ===== -->
+  <g fill="none" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.35">
+    <path d="M0 70H70L100 100H170"/>
+    <path d="M0 130H40L60 150H120"/>
+    <path d="M1500 70H1430L1400 100H1330"/>
+    <path d="M1500 130H1460L1440 150H1380"/>
+  </g>
+  <g fill="none" stroke="#7dd3fc" stroke-width="2" class="flow">
+    <path d="M0 70H70L100 100H170"/>
+    <path d="M1500 70H1430L1400 100H1330"/>
+  </g>
+  <g fill="#7dd3fc">
+    <circle class="pulse" cx="170" cy="100" r="4.5"/>
+    <circle class="pulse d2" cx="120" cy="150" r="4.5"/>
+    <circle class="pulse d3" cx="1330" cy="100" r="4.5"/>
+    <circle class="pulse" cx="1380" cy="150" r="4.5"/>
+  </g>
+
+  <!-- ===== HUD FRAME around the name ===== -->
+  <g fill="none" stroke="#7dd3fc" stroke-width="2.5" stroke-linecap="square" opacity="0.85">
+    <path d="M190 62H160V92"/>
+    <path d="M1310 62H1340V92"/>
+    <path d="M190 212H160V182"/>
+    <path d="M1310 212H1340V182"/>
+  </g>
+  <g fill="#38bdf8" opacity="0.7">
+    <rect x="200" y="60" width="40" height="3"/>
+    <rect x="1260" y="60" width="40" height="3"/>
+    <rect x="200" y="211" width="14" height="3"/>
+    <rect x="220" y="211" width="6" height="3"/>
+    <rect x="1286" y="211" width="14" height="3"/>
+    <rect x="1274" y="211" width="6" height="3"/>
+  </g>
+
+  <!-- small top label -->
+  <text x="750" y="58" text-anchor="middle"
+        font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace"
+        font-size="15" font-weight="700" letter-spacing="7" fill="#7dd3fc" opacity="0.9">◢ COMPUTER ENGINEERING ◣</text>
+
+  <!-- ===== THE NAME ===== -->
+  <!-- chromatic ghost -->
+  <text x="746" y="186" text-anchor="middle" fill="#1d4ed8" opacity="0.7"
+        font-family="'Eurostile','Orbitron','Bank Gothic','Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif"
+        font-size="124" font-weight="900" textLength="1060" lengthAdjust="spacingAndGlyphs">RAYAN REHOU</text>
+  <!-- main neon layer -->
+  <text x="750" y="182" text-anchor="middle" fill="url(#nameFill)"
+        stroke="#e0f2fe" stroke-width="1.2" filter="url(#neon)"
+        font-family="'Eurostile','Orbitron','Bank Gothic','Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif"
+        font-size="124" font-weight="900" textLength="1060" lengthAdjust="spacingAndGlyphs">RAYAN REHOU</text>
+  <!-- scanlines inside the letters -->
+  <rect x="200" y="60" width="1100" height="140" fill="url(#scan)" clip-path="url(#nameClip)"/>
+  <!-- light sweep -->
+  <g clip-path="url(#nameClip)">
+    <rect class="sweep" x="0" y="50" width="160" height="160" fill="url(#sweep)" transform="skewX(-20)"/>
+  </g>
+
+  <!-- status line under the name -->
+  <g font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" letter-spacing="3">
+    <circle class="pulse" cx="676" cy="212" r="4" fill="#22d3ee"/>
+    <text x="688" y="217" fill="#93c5fd">ONLINE<tspan class="blink" fill="#22d3ee">_</tspan></text>
+  </g>
+
+  <!-- global scanline texture -->
+  <rect width="1500" height="300" fill="url(#scan)" opacity="0.35"/>
+</svg>
