@@ -63,10 +63,18 @@ I'm particularly interested in **Artificial Intelligence, Cybersecurity, IT Infr
 
 ## 🚀 Currently Working On
 
-- Developing my GitHub portfolio with hands-on software and engineering projects.
-- Exploring football analytics and AI through my upcoming **TransferIQ** project.
-- Building my knowledge of cybersecurity, operating systems, and networking.
-- Practising data structures and algorithms through **LeetCode 75**.
+- ⚽ **TransferIQ:** Developing a football scouting and player recommendation platform using Python, data science, and machine learning.
+- 🌡️ **Smart Temperature Monitor:** Collaborating on a hands-on IoT project involving Arduino, ESP32, temperature sensors, embedded programming, and a real-time web dashboard.
+- ⚙️ **Digital Systems:** Designing and simulating digital circuits using Intel Quartus, including registers, counters, and arithmetic logic.
+
+### 🔜 Upcoming Projects
+
+- ⚽ **Smart Soccer Scoreboard:** Building a physical electronic scoreboard with score tracking, digital displays, match timers, and embedded control systems.
+- ♻️ **EcoVision:** Developing an AI-powered recycling recognition system combining computer vision, machine learning, and hardware integration.
+
+### 🧠 Continuous Learning
+
+- Strengthening my programming and problem-solving skills through **LeetCode 75**, while exploring cybersecurity, networking, and IT infrastructure.
 
 ## ⚽ Beyond Engineering
 
