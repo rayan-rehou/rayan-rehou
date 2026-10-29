@@ -14,7 +14,7 @@
 
 I'm a Computer Engineering student passionate about technology, problem-solving, and understanding how software and hardware systems work together.
 
-I'm particularly interested in **Artificial Intelligence, Cybersecurity, IT Infrastructure, and Software Development**. I enjoy exploring new technologies, developing practical skills, and building projects that solve interesting problems.
+I’m especially interested in embedded systems, IoT, and computer vision, and in how to keep connected devices secure. I like learning by building: right now that means an ESP32 temperature monitor with a live web dashboard and a hand-gesture controller that runs on a webcam.
 
 
 ## 🔍 Areas of Interest
