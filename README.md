@@ -19,10 +19,10 @@ I’m especially interested in embedded systems, IoT, and computer vision, and i
 
 ## 🔍 Areas of Interest
 
-- 🔌 **Embedded Systems & IoT** — Exploring microcontrollers, sensor integration, and connected devices through hands-on Arduino and ESP32 projects.
-- 👁️ **Computer Vision & AI** — Developing real-time applications using webcam-based hand tracking, gesture recognition, and machine learning.
-- 🔐 **IoT & Systems Security** — Learning about network security, device authentication, and secure communication in connected systems.
-
+- 🔌 **Embedded Systems & IoT** — Exploring microcontrollers, sensors, and connected devices through Arduino and ESP32 projects.
+- 🌐 **IT & Networking** — Interested in IT infrastructure, operating systems, computer networks, and system administration.
+- 👁️ **Computer Vision & AI** — Building real-time applications using Python, hand tracking, and machine learning.
+- 🔐 **Cybersecurity** — Exploring network security, IoT security, and secure communication.
 
 ## 🛠️ Technical Skills & Tools
 
