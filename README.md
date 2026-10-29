@@ -19,9 +19,9 @@ I'm particularly interested in **Artificial Intelligence, Cybersecurity, IT Infr
 
 ## 🔍 Areas of Interest
 
-- 🔌 **Embedded Systems & IoT** — Building sensor-based devices on Arduino and ESP32 that stream live data to web dashboards.
-- 👁️ **Computer Vision** — Turning webcam input into real-time controls, like hand-gesture recognition for media and volume.
-- 🔐 **IoT Security** — Learning how to secure connected devices and the networks they run on.
+- 🔌 **Embedded Systems & IoT** — Exploring microcontrollers, sensor integration, and connected devices through hands-on Arduino and ESP32 projects.
+- 👁️ **Computer Vision & AI** — Developing real-time applications using webcam-based hand tracking, gesture recognition, and machine learning.
+- 🔐 **IoT & Systems Security** — Learning about network security, device authentication, and secure communication in connected systems.
 
 
 ## 🛠️ Technical Skills & Tools
