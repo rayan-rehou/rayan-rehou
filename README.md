@@ -61,18 +61,13 @@ I’m especially interested in embedded systems, IoT, and computer vision, and i
 
 ## 🚀 Currently Working On
 
-- ⚽ **TransferIQ:** Developing a football scouting and player recommendation platform using Python, data science, and machine learning.
-- 🌡️ **Smart Temperature Monitor:** Collaborating on a hands-on IoT project involving Arduino, ESP32, temperature sensors, embedded programming, and a real-time web dashboard.
-- ⚙️ **Digital Systems:** Designing and simulating digital circuits using Intel Quartus, including registers, counters, and arithmetic logic.
+- 🔌 **Smart Temperature Monitor:** Building an IoT monitoring system using Arduino, ESP32, and sensors.
+- 👁️ **Hand-Gesture Controller:** Developing a computer vision application using Python and machine learning.
 
-### 🔜 Upcoming Projects
+## 🧠 Continuous Learning
 
-- ⚽ **Smart Soccer Scoreboard:** Building a physical electronic scoreboard with score tracking, digital displays, match timers, and embedded control systems.
-- ♻️ **EcoVision:** Developing an AI-powered recycling recognition system combining computer vision, machine learning, and hardware integration.
-
-### 🧠 Continuous Learning
-
-- Strengthening my programming and problem-solving skills through **LeetCode 75**, while exploring cybersecurity, networking, and IT infrastructure.
+- 💻 Practising algorithms and problem-solving through **LeetCode Top Interview 150**.
+- 🔐 Learning embedded systems, IoT security, and networking fundamentals.
 
 ## ⚽ Beyond Engineering
 
