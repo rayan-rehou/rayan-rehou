@@ -40,6 +40,7 @@ I’m especially interested in embedded systems, IoT, and computer vision, and i
 
 #### **Hardware Development**
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Multisim](https://img.shields.io/badge/Multisim-03B484?style=for-the-badge&logoColor=white)
 
 #### **Frameworks**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
