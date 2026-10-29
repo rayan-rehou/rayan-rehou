@@ -19,11 +19,9 @@ I'm particularly interested in **Artificial Intelligence, Cybersecurity, IT Infr
 
 ## 🔍 Areas of Interest
 
-- 🤖 **Artificial Intelligence & Machine Learning** — Exploring data-driven applications, predictive models, and computer vision.
-- 🔐 **Cybersecurity** — Interested in system security, threat detection, and security monitoring.
-- 🌐 **IT Systems & Networking** — Learning about computer networks, operating systems, and infrastructure.
-- ⚙️ **Computer Architecture** — Exploring digital logic, hardware design, and processor fundamentals.
-- 💻 **Software Development** — Building applications and improving my programming and problem-solving abilities.
+- 🔌 **Embedded Systems & IoT** — Building sensor-based devices on Arduino and ESP32 that stream live data to web dashboards.
+- 👁️ **Computer Vision** — Turning webcam input into real-time controls, like hand-gesture recognition for media and volume.
+- 🔐 **IoT Security** — Learning how to secure connected devices and the networks they run on.
 
 
 ## 🛠️ Technical Skills & Tools
