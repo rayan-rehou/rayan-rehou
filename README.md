@@ -59,12 +59,14 @@ I’m especially interested in embedded systems, IoT, and computer vision, and i
 
 ## 🚀 Currently Working On
 
-- 🔌 **Smart Temperature Monitor:** Building an IoT monitoring system using Arduino, ESP32, and sensors.
-- 👁️ **Hand-Gesture Controller:** Developing a computer vision application using Python and machine learning.
+- 🌡️ **Smart Temperature Monitor:** Building an IoT system with Arduino, ESP32, and sensors that sends live readings over Wi-Fi to a web dashboard.
+- 👁️ **Hand-Gesture Controller:** Developing a computer vision application using Python, OpenCV, and MediaPipe.
 
 ## 🧠 Continuous Learning
 
 - 💻 Practising algorithms and problem-solving through **LeetCode Top Interview 150**.
+- 🗄️ Learning **SQL** through LeetCode database problems.
+- 🛡️ Learning cybersecurity through hands-on labs on **Hack The Box**.
 - 🔐 Learning embedded systems, IoT security, and networking fundamentals.
 
 ## ⚽ Beyond Engineering
