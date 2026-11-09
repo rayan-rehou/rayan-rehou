@@ -113,6 +113,3 @@ I also enjoy learning new skills, exploring different areas of technology, and c
 <img src="https://komarev.com/ghpvc/?username=rayan-rehou&style=for-the-badge&color=0000FF" width="300px" alt="Profile Views">
 
 ---
-
-### Credits
-@KhaledBaki for helping me make this README!
