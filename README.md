@@ -14,8 +14,7 @@
 
 I'm a Computer Engineering student passionate about technology, problem-solving, and understanding how software and hardware systems work together.
 
-I’m especially interested in embedded systems, IoT, computer vision, and data analytics, and in how to keep connected devices secure. I like learning by building: right now that means an ESP32 temperature monitor that sends live readings to the cloud, a hand-gesture controller that runs on a webcam, and a football analytics app.
-
+I’m especially interested in IT infrastructure, networking, cybersecurity, embedded systems, IoT, databases, and data analytics. I like learning by building: right now that means an ESP32 temperature monitor that sends live readings to the cloud, a hand-gesture controller that runs on a webcam, and a football analytics app.
 
 ## 🔍 Areas of Interest
 
