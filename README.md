@@ -42,6 +42,7 @@ I’m especially interested in embedded systems, IoT, and computer vision, and i
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Breadboard](https://img.shields.io/badge/Breadboard-2E8B57?style=for-the-badge&logo=circuitverse&logoColor=white)
+[![Wokwi](https://img.shields.io/badge/Wokwi-ESP32%20Simulator-2E7D32?style=for-the-badge)](https://wokwi.com)
 
 #### **Software Development**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
