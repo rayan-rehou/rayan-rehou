@@ -14,7 +14,7 @@
 
 I'm a Computer Engineering student passionate about technology, problem-solving, and understanding how software and hardware systems work together.
 
-I’m especially interested in embedded systems, IoT, and computer vision, and in how to keep connected devices secure. I like learning by building: right now that means an ESP32 temperature monitor with a live web dashboard and a hand-gesture controller that runs on a webcam.
+I’m especially interested in embedded systems, IoT, computer vision, and data analytics, and in how to keep connected devices secure. I like learning by building: right now that means an ESP32 temperature monitor that sends live readings to the cloud, a hand-gesture controller that runs on a webcam, and a football analytics app.
 
 
 ## 🔍 Areas of Interest
@@ -23,6 +23,7 @@ I’m especially interested in embedded systems, IoT, and computer vision, and i
 - 🌐 **IT & Networking** — Interested in IT infrastructure, operating systems, computer networks, and system administration.
 - 👁️ **Computer Vision & AI** — Building real-time applications using Python, hand tracking, and machine learning.
 - 🔐 **Cybersecurity** — Exploring network security, IoT security, and secure communication.
+- 📊 **Data Analytics & Databases** — Storing, querying, and analyzing data with SQL, Pandas, and Streamlit.
 
 ## 🛠️ Technical Skills & Tools
 
@@ -32,7 +33,6 @@ I’m especially interested in embedded systems, IoT, and computer vision, and i
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VisualBasic.NET](https://img.shields.io/badge/VisualBasic.NET-0000FF?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
 #### **Hardware Development**
@@ -47,24 +47,25 @@ I’m especially interested in embedded systems, IoT, and computer vision, and i
 #### **Software Development**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![UML](https://img.shields.io/badge/UML-8A2BE2?style=for-the-badge&logo=uml&logoColor=white)
 
 ### Libraries & Frameworks
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 #### **Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ---
 
 ## 🚀 Currently Working On
 
-- 🌡️ **Smart Temperature Monitor:** Building an IoT system with Arduino, ESP32, and sensors that sends live readings over Wi-Fi to a web dashboard.
+- 📡 **uOttawa Mars Rover Team:** Researching sector antennas to improve the wireless link between the base station and the rover.
+- 🌡️ **Smart Temperature Monitor:** Building an ESP32 prototype in C++ with a DHT22 sensor, on real hardware and in Wokwi, that sends readings over Wi-Fi to ThingSpeak, with a Python, SQLite, and Pandas pipeline feeding an interactive dashboard.
 - 👁️ **Hand-Gesture Controller:** Developing a computer vision application using Python, OpenCV, and MediaPipe.
+- ⚽ **Football Analytics Explorer:** Building a Python app with SQL, Pandas, and Streamlit to analyze real football match data and compare team performance.
 
 ## 🧠 Continuous Learning
 
