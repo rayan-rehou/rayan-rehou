@@ -41,6 +41,7 @@ I’m especially interested in embedded systems, IoT, and computer vision, and i
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Breadboard](https://img.shields.io/badge/Breadboard-2E8B57?style=for-the-badge&logo=circuitverse&logoColor=white)
 
 #### **Software Development**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -50,6 +51,7 @@ I’m especially interested in embedded systems, IoT, and computer vision, and i
 ### Libraries & Frameworks
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### **Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
