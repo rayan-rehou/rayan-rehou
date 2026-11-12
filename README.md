@@ -18,6 +18,7 @@ I’m especially interested in IT infrastructure, networking, cybersecurity, emb
 
 ## 🔍 Areas of Interest
 
+- 💻 **Software Development** — Building applications in Python, Java, and C/C++, from data dashboards to desktop simulators.
 - 🔌 **Embedded Systems & IoT** — Exploring microcontrollers, sensors, and connected devices through Arduino and ESP32 projects.
 - 🌐 **IT & Networking** — Interested in IT infrastructure, operating systems, computer networks, and system administration.
 - 👁️ **Computer Vision & AI** — Building real-time applications using Python, hand tracking, and machine learning.
@@ -65,7 +66,13 @@ I’m especially interested in IT infrastructure, networking, cybersecurity, emb
 - 📡 **uOttawa Mars Rover Team:** Researching sector antennas to improve the wireless link between the base station and the rover.
 - 🌡️ **Smart Temperature Monitor:** Building an ESP32 prototype in C++ with a DHT22 sensor, on real hardware and in Wokwi, that sends readings over Wi-Fi to ThingSpeak, with a Python, SQLite, and Pandas pipeline feeding an interactive dashboard.
 - 👁️ **Hand-Gesture Controller:** Developing a computer vision application using Python, OpenCV, and MediaPipe.
-- ⚽ **Football Analytics Explorer:** Building a Python app with SQL, Pandas, and Streamlit to analyze real football match data and compare team performance.
+
+## 🧩 Recent Projects
+
+- ⚽ **[Football Analytics Explorer](https://github.com/rayan-rehou/football-analytics-dashboard)** — Python app with SQL, Pandas, and Streamlit to explore real football match data and compare team performance. [Live demo](https://rayan-rehou-football-analytics.streamlit.app/)
+- 🚦 **[Button-Controlled Traffic Light](https://github.com/rayan-rehou/ESP32-Mini-Projects/tree/main/traffic-light)** — ESP32 traffic light on a real breadboard: one button starts the green → yellow → red cycle, another turns it off.
+- 💡 **[Wi-Fi LED Controller](https://github.com/rayan-rehou/ESP32-Mini-Projects/tree/main/wifi-led-controller)** — ESP32 hosts its own Wi-Fi network and web page to turn an LED on, off, or flashing from a phone.
+- ✈️ **[Airline Reservation Simulator](https://github.com/rayan-rehou/Airline-Reservation-Simulator)** (2024) — One of my first Python programs: a command-line app with customer and employee menus that prices flights and prints a receipt.
 
 ## 🧠 Continuous Learning
 
@@ -91,6 +98,9 @@ I also enjoy learning new skills, exploring different areas of technology, and c
   </a>
   <a href="https://leetcode.com/u/Rayzzo/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0d1b2a.svg?style=for-the-badge&logo=leetcode&logoColor=36BCF7" width=245px/>
+  </a>
+  <a href="https://rayan-rehou.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d1b2a.svg?style=for-the-badge&logo=googlechrome&logoColor=36BCF7" width=230px/>
   </a>
 </p>
 
