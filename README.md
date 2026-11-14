@@ -12,13 +12,14 @@
 
 **Computer Engineering Student @ University of Ottawa 🇨🇦**
 
-I'm a Computer Engineering student passionate about technology, problem-solving, and understanding how software and hardware systems work together.
+I'm a Computer Engineering student who likes writing code that makes things work, whether it's firmware controlling real hardware or software and web apps that people use.
 
-I’m especially interested in IT infrastructure, networking, cybersecurity, embedded systems, IoT, databases, and data analytics. I like learning by building: right now that means an ESP32 temperature monitor that sends live readings to the cloud, a hand-gesture controller that runs on a webcam, and a football analytics app.
+I’m especially interested in software development, full-stack and embedded systems, IoT, IT and networking, and cybersecurity. I like learning by building: right now that means an ESP32 temperature monitor that sends live readings to the cloud, an airline reservation system I'm expanding into a web app, and a hand-gesture controller that runs on a webcam.
 
 ## 🔍 Areas of Interest
 
-- 💻 **Software Development** — Building applications in Python, Java, and C/C++, from data dashboards to desktop simulators.
+- 💻 **Software Development** — Building applications in Python, Java, and C/C++, from data dashboards to embedded firmware.
+- 🌍 **Full-Stack Web Development** — Learning to build web apps with Flask, SQLite, HTML/CSS, and JavaScript.
 - 🔌 **Embedded Systems & IoT** — Exploring microcontrollers, sensors, and connected devices through Arduino and ESP32 projects.
 - 🌐 **IT & Networking** — Interested in IT infrastructure, operating systems, computer networks, and system administration.
 - 👁️ **Computer Vision & AI** — Building real-time applications using Python, hand tracking, and machine learning.
@@ -48,6 +49,8 @@ I’m especially interested in IT infrastructure, networking, cybersecurity, emb
 #### **Software Development**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### Libraries & Frameworks
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -57,6 +60,8 @@ I’m especially interested in IT infrastructure, networking, cybersecurity, emb
 
 #### **Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
@@ -65,19 +70,22 @@ I’m especially interested in IT infrastructure, networking, cybersecurity, emb
 
 - 📡 **uOttawa Mars Rover Team:** Researching sector antennas to improve the wireless link between the base station and the rover.
 - 🌡️ **Smart Temperature Monitor:** Building an ESP32 prototype in C++ with a DHT22 sensor, on real hardware and in Wokwi, that sends readings over Wi-Fi to ThingSpeak, with a Python, SQLite, and Pandas pipeline feeding an interactive dashboard.
+- ✈️ **[Airline Reservation System](https://github.com/rayan-rehou/Airline-Reservation-Simulator):** A Python booking program with customer and employee menus, age-based fares, meals, drinks, and a receipt. Now adding input checks and expanding it into a Flask web app with a SQLite database and seat selection.
+- 📱 **StudyHub (team project):** An Android app for managing courses and tasks, built in Android Studio with a course project team.
 - 👁️ **Hand-Gesture Controller:** Developing a computer vision application using Python, OpenCV, and MediaPipe.
 
 ## 🧩 Recent Projects
 
 - ⚽ **[Football Analytics Explorer](https://github.com/rayan-rehou/football-analytics-dashboard)** — Python app with SQL, Pandas, and Streamlit to explore real football match data and compare team performance. [Live demo](https://rayan-rehou-football-analytics.streamlit.app/)
-- 🚦 **[Button-Controlled Traffic Light](https://github.com/rayan-rehou/ESP32-Mini-Projects/tree/main/traffic-light)** — ESP32 traffic light on a real breadboard: one button starts the green → yellow → red cycle, another turns it off.
+- 🌈 **[Multi-Mode LED Animation](https://github.com/rayan-rehou/ESP32-Mini-Projects)** — 8 LEDs and 3 buttons on an ESP32 with two light animations, controlled with the buttons or from a computer over USB serial.
 - 💡 **[Wi-Fi LED Controller](https://github.com/rayan-rehou/ESP32-Mini-Projects/tree/main/wifi-led-controller)** — ESP32 hosts its own Wi-Fi network and web page to turn an LED on, off, or flashing from a phone.
-- ✈️ **[Airline Reservation Simulator](https://github.com/rayan-rehou/Airline-Reservation-Simulator)** (2024) — One of my first Python programs: a command-line app with customer and employee menus that prices flights and prints a receipt.
+- 🚦 **[Button-Controlled Traffic Light](https://github.com/rayan-rehou/ESP32-Mini-Projects/tree/main/traffic-light)** — ESP32 traffic light on a real breadboard: one button starts the green → yellow → red cycle, another turns it off.
 
 ## 🧠 Continuous Learning
 
 - 💻 Practising algorithms and problem-solving through **LeetCode Top Interview 150**.
 - 🗄️ Learning **SQL** through LeetCode database problems.
+- 🌍 Learning **Flask** and web development (HTML/CSS/JavaScript) to build full-stack apps.
 - 🛡️ Learning cybersecurity through hands-on labs on **Hack The Box**.
 - 🔐 Learning embedded systems, IoT security, and networking fundamentals.
 
