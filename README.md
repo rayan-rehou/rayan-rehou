@@ -77,9 +77,18 @@ I’m especially interested in software development, full-stack and embedded sys
 ## 🧩 Recent Projects
 
 - ⚽ **[Football Analytics Explorer](https://github.com/rayan-rehou/football-analytics-dashboard)** — Python app with SQL, Pandas, and Streamlit to explore real football match data and compare team performance. [Live demo](https://rayan-rehou-football-analytics.streamlit.app/)
-- 🌈 **[Multi-Mode LED Animation](https://github.com/rayan-rehou/ESP32-Mini-Projects)** — 8 LEDs and 3 buttons on an ESP32 with two light animations, controlled with the buttons or from a computer over USB serial.
+- 🌈 **[Multi-Mode LED Animation](https://github.com/rayan-rehou/ESP32-Mini-Projects/tree/main/multi-mode-led-animation)** — 8 LEDs and 3 buttons on an ESP32 with two light animations, controlled with the buttons or from a computer over USB serial.
 - 💡 **[Wi-Fi LED Controller](https://github.com/rayan-rehou/ESP32-Mini-Projects/tree/main/wifi-led-controller)** — ESP32 hosts its own Wi-Fi network and web page to turn an LED on, off, or flashing from a phone.
 - 🚦 **[Button-Controlled Traffic Light](https://github.com/rayan-rehou/ESP32-Mini-Projects/tree/main/traffic-light)** — ESP32 traffic light on a real breadboard: one button starts the green → yellow → red cycle, another turns it off.
+
+## 🐍 Python Mini Projects
+
+Small terminal programs in **[Python-Mini-Projects](https://github.com/rayan-rehou/Python-Mini-Projects)**:
+
+- 🏫 **School Management System** (with Rami Rehou): course choice, grades and average, textbooks, school bus, activities and graduation roles
+- 📦 **Inventory Manager** and 📚 **Library Manager**: add, remove and list items
+- 💸 **Expense Tracker**, 🔐 **Password Generator** and 🧮 **Calculator**
+- 🎮 **Games:** Multiplication Quiz, Number Guessing Game, Rock Paper Scissors
 
 ## 🧠 Continuous Learning
 
