@@ -6,9 +6,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=100&color=00FFFF&background=000000FF&center=true&vCenter=true&width=850&lines=HI%2C+I'M+RAYAN+REHOU;COMPUTER+ENGINEERING+STUDENT+@+uOttawa;" alt="Typing SVG" width="100%" />
 </p>
 <p align="center">
-  <img src="./rayan-circuit.svg" alt="Animated circuit with an ESP32 chip and chasing LEDs" width="100%">
+  <img src="./rayan-waves.svg" alt="Animated waves" width="100%">
 </p>
 
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering (Co-op) student at the **University of Ottawa**
+- 🤖 Embedded Software Developer on the **uOttawa Mars Rover Team** (robotic arm)
+- ⚙️ I like writing code that makes things work, on both the software and hardware side
+- ✈️ Currently building a **Flask** web app for my airline reservation system
+- 💼 Looking for a **Summer 2027 co-op**
+- ⚽ Outside of tech: football
 
 ## 🛠️ Technical Skills & Tools
 
