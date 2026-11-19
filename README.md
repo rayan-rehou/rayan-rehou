@@ -15,8 +15,6 @@
 - 🎓 Computer Engineering (Co-op) student at the **University of Ottawa**
 - 🤖 Embedded Software Developer on the **uOttawa Mars Rover Team** (robotic arm)
 - ⚙️ I like writing code that makes things work, on both the software and hardware side
-- ✈️ Currently building a **Flask** web app for my airline reservation system
-- 💼 Looking for a **Summer 2027 co-op**
 - ⚽ Outside of tech: football
 
 ## 🛠️ Technical Skills & Tools
