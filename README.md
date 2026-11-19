@@ -14,12 +14,12 @@
 
 I'm a Computer Engineering student who likes writing code that makes things work, whether it's firmware controlling real hardware or software and web apps that people use.
 
-I’m especially interested in software development, embedded systems and IoT, IT and networking, and cybersecurity. I like learning by building: right now that means an ESP32 temperature monitor that sends live readings to the cloud and an airline reservation system I'm expanding into a web app.
+I’m especially interested in software development, embedded systems and IoT, IT and networking, and cybersecurity. I like learning by building: right now that means embedded C/C++ on the uOttawa Mars Rover's robotic arm, an ESP32 temperature monitor, and an airline reservation system that now has a web version.
 
 ## 🔍 Areas of Interest
 
 - 💻 **Software Development** — Building applications in Python, Java, and C/C++, from data dashboards to embedded firmware.
-- 🌍 **Web Development** — Learning HTML, CSS, and JavaScript to build web pages and apps.
+- 🌍 **Web Development** — Building web pages with HTML, and learning CSS and JavaScript to make them interactive.
 - 🔌 **Embedded Systems & IoT** — Exploring microcontrollers, sensors, and connected devices through Arduino and ESP32 projects.
 - 🌐 **IT & Networking** — Interested in IT infrastructure, operating systems, computer networks, and system administration.
 - 👁️ **Computer Vision & AI** — Exploring real-time hand tracking in Python with OpenCV and MediaPipe.
@@ -67,9 +67,9 @@ I’m especially interested in software development, embedded systems and IoT, I
 
 ## 🚀 Currently Working On
 
-- 📡 **uOttawa Mars Rover Team:** Researching sector antennas to improve the wireless link between the base station and the rover.
-- 🌡️ **Smart Temperature Monitor:** Building an ESP32 prototype in C++ with a DHT22 sensor, on real hardware and in Wokwi, that sends readings over Wi-Fi to ThingSpeak, with a Python, SQLite, and Pandas pipeline feeding an interactive dashboard.
-- ✈️ **[Airline Reservation System](https://github.com/rayan-rehou/Airline-Reservation-Simulator):** A Python booking program with customer and employee menus, age-based fares, meals, drinks, and a receipt. Now expanding it with input validation and a web version with a database, seat selection, and a staff page.
+- 🤖 **uOttawa Mars Rover Team (Embedded Software Developer):** Writing Arduino C/C++ code to control the robotic arm's motors, and tuning and testing PID parameters so each motor reaches its target velocity without overshoot or oscillation.
+- 🌡️ **Smart Temperature Monitor:** Building an ESP32 prototype in C++ that reads temperature and humidity from a DHT22 sensor, tested first in Wokwi. Working on sending the readings over Wi-Fi to ThingSpeak, and planning a Python script that saves them in SQLite and alerts when it gets too hot.
+- ✈️ **[Airline Reservation System](https://github.com/rayan-rehou/Airline-Reservation-Simulator):** A menu-driven Python booking system with customer and airline employee roles, fares based on age and meal choice, and a receipt. It now has an HTML web version for booking from a browser, and I'm adding a SQLite database to save bookings.
 - 📱 **StudyHub (team project):** An Android app for managing courses and tasks, built in Android Studio with a course project team.
 
 ## 🧩 Recent Projects
@@ -93,7 +93,7 @@ Small terminal programs in **[Python-Mini-Projects](https://github.com/rayan-reh
 
 - 💻 Practising algorithms and problem-solving through **LeetCode Top Interview 150**.
 - 🗄️ Learning **SQL** through LeetCode database problems.
-- 🌍 Learning web development (**HTML, CSS, JavaScript**).
+- 🌍 Learning web development (**CSS, JavaScript**) on top of HTML.
 - 🛡️ Learning cybersecurity through hands-on labs on **Hack The Box**.
 - 🔐 Learning embedded systems, IoT security, and networking fundamentals.
 
