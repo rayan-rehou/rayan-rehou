@@ -19,7 +19,7 @@ I’m especially interested in software development, embedded systems and IoT, I
 ## 🔍 Areas of Interest
 
 - 💻 **Software Development** — Building applications in Python, Java, and C/C++, from data dashboards to embedded firmware.
-- 🌍 **Web Development** — Building web pages with HTML, and learning CSS and JavaScript to make them interactive.
+- 🌍 **Web Development** — Building web apps with Flask and HTML, and learning CSS and JavaScript to make them interactive.
 - 🔌 **Embedded Systems & IoT** — Exploring microcontrollers, sensors, and connected devices through Arduino and ESP32 projects.
 - 🌐 **IT & Networking** — Interested in IT infrastructure, operating systems, computer networks, and system administration.
 - 👁️ **Computer Vision & AI** — Exploring real-time hand tracking in Python with OpenCV and MediaPipe.
@@ -60,6 +60,7 @@ I’m especially interested in software development, embedded systems and IoT, I
 
 #### **Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -69,7 +70,7 @@ I’m especially interested in software development, embedded systems and IoT, I
 
 - 🤖 **uOttawa Mars Rover Team (Embedded Software Developer):** Writing Arduino C/C++ code to control the robotic arm's motors, and tuning and testing PID parameters so each motor reaches its target velocity without overshoot or oscillation.
 - 🌡️ **Smart Temperature Monitor:** Building an ESP32 prototype in C++ that reads temperature and humidity from a DHT22 sensor, tested first in Wokwi. Working on sending the readings over Wi-Fi to ThingSpeak, and planning a Python script that saves them in SQLite and alerts when it gets too hot.
-- ✈️ **[Airline Reservation System](https://github.com/rayan-rehou/Airline-Reservation-Simulator):** A menu-driven Python booking system with customer and airline employee roles, fares based on age and meal choice, and a receipt. It now has an HTML web version for booking from a browser, and I'm adding a SQLite database to save bookings.
+- ✈️ **[Airline Reservation System](https://github.com/rayan-rehou/Airline-Reservation-Simulator):** A menu-driven Python booking system with customer and airline employee roles, fares based on age and meal choice, and a receipt. It now has a web version built with Flask and HTML for booking from a browser, and I'm adding a SQLite database to save bookings.
 - 📱 **StudyHub (team project):** An Android app for managing courses and tasks, built in Android Studio with a course project team.
 
 ## 🧩 Recent Projects
