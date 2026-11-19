@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=100&color=00FFFF&background=000000FF&center=true&vCenter=true&width=850&lines=HI%2C+I'M+RAYAN+REHOU;COMPUTER+ENGINEERING+STUDENT+@+uOttawa;" alt="Typing SVG" width="100%" />
 </p>
+<p align="center">
+  <img src="./rayan-circuit.svg" alt="Animated circuit with an ESP32 chip and chasing LEDs" width="100%">
+</p>
 
 
 ## 🛠️ Technical Skills & Tools
