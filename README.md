@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering (Co-op) student at the **University of Ottawa**
-- 🤖 Embedded Software Developer on the **uOttawa Mars Rover Team** (robotic arm)
+- 🤖 Part of the embedded software team for the robotic arm on the **uOttawa Mars Rover Team**
 - ⚙️ I like writing code that makes things work, on both the software and hardware side
 - ⚽ Outside of tech: football
 
