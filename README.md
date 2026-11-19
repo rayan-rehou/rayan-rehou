@@ -12,19 +12,7 @@
 
 **Computer Engineering Student @ University of Ottawa 🇨🇦**
 
-I'm a Computer Engineering student who likes writing code that makes things work, whether it's firmware controlling real hardware or software and web apps that people use.
-
-I’m especially interested in software development, embedded systems and IoT, IT and networking, and cybersecurity. I like learning by building: right now that means embedded C/C++ on the uOttawa Mars Rover's robotic arm, an ESP32 temperature monitor, and an airline reservation system that now has a web version.
-
-## 🔍 Areas of Interest
-
-- 💻 **Software Development** — Building applications in Python, Java, and C/C++, from data dashboards to embedded firmware.
-- 🌍 **Web Development** — Building web apps with Flask and HTML, and learning CSS and JavaScript to make them interactive.
-- 🔌 **Embedded Systems & IoT** — Exploring microcontrollers, sensors, and connected devices through Arduino and ESP32 projects.
-- 🌐 **IT & Networking** — Interested in IT infrastructure, operating systems, computer networks, and system administration.
-- 👁️ **Computer Vision & AI** — Exploring real-time hand tracking in Python with OpenCV and MediaPipe.
-- 🔐 **Cybersecurity** — Exploring network security, IoT security, and secure communication.
-- 📊 **Data Analytics & Databases** — Storing, querying, and analyzing data with SQL, Pandas, and Streamlit.
+I like writing code that makes things work, from embedded C/C++ on microcontrollers to Python web apps.
 
 ## 🛠️ Technical Skills & Tools
 
@@ -63,47 +51,6 @@ I’m especially interested in software development, embedded systems and IoT, I
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
----
-
-## 🚀 Currently Working On
-
-- 🤖 **uOttawa Mars Rover Team (Embedded Software Developer):** Writing Arduino C/C++ code to control the robotic arm's motors, and tuning and testing PID parameters so each motor reaches its target velocity without overshoot or oscillation.
-- 🌡️ **Smart Temperature Monitor:** Building an ESP32 prototype in C++ that reads temperature and humidity from a DHT22 sensor, tested first in Wokwi. Working on sending the readings over Wi-Fi to ThingSpeak, and planning a Python script that saves them in SQLite and alerts when it gets too hot.
-- ✈️ **[Airline Reservation System](https://github.com/rayan-rehou/Airline-Reservation-Simulator):** A menu-driven Python booking system with customer and airline employee roles, fares based on age and meal choice, and a receipt. It now has a web version built with Flask and HTML for booking from a browser, and I'm adding a SQLite database to save bookings.
-- 📱 **StudyHub (team project):** An Android app for managing courses and tasks, built in Android Studio with a course project team.
-
-## 🧩 Recent Projects
-
-- ⚽ **[Football Analytics Explorer](https://github.com/rayan-rehou/football-analytics-dashboard)** (learning project) — Python app with SQL, Pandas, and Streamlit to explore real football match data and compare team performance. [Live demo](https://rayan-rehou-football-analytics.streamlit.app/)
-- 👁️ **Hand-Gesture Controller** (learning project) — Python, OpenCV, and MediaPipe to track 21 hand landmarks from a webcam in real time.
-- 🌈 **[Multi-Mode LED Animation](https://github.com/rayan-rehou/ESP32-Mini-Projects/tree/main/multi-mode-led-animation)** — 8 LEDs and 3 buttons on an ESP32 with two light animations, controlled with the buttons or from a computer over USB serial.
-- 💡 **[Wi-Fi LED Controller](https://github.com/rayan-rehou/ESP32-Mini-Projects/tree/main/wifi-led-controller)** — ESP32 hosts its own Wi-Fi network and web page to turn an LED on, off, or flashing from a phone.
-- 🚦 **[Button-Controlled Traffic Light](https://github.com/rayan-rehou/ESP32-Mini-Projects/tree/main/traffic-light)** — ESP32 traffic light on a real breadboard: one button starts the green → yellow → red cycle, another turns it off.
-
-## 🐍 Python Mini Projects
-
-Small terminal programs in **[Python-Mini-Projects](https://github.com/rayan-rehou/Python-Mini-Projects)**:
-
-- 🏫 **School Management System** (with Rami Rehou): course choice, grades and average, textbooks, school bus, activities and graduation roles
-- 📦 **Inventory Manager** and 📚 **Library Manager**: add, remove and list items
-- 💸 **Expense Tracker**, 🔐 **Password Generator** and 🧮 **Calculator**
-- 🎮 **Games:** Multiplication Quiz, Number Guessing Game, Rock Paper Scissors
-
-## 🧠 Continuous Learning
-
-- 💻 Practising algorithms and problem-solving through **LeetCode Top Interview 150**.
-- 🗄️ Learning **SQL** through LeetCode database problems.
-- 🌍 Learning web development (**CSS, JavaScript**) on top of HTML.
-- 🛡️ Learning cybersecurity through hands-on labs on **Hack The Box**.
-- 🔐 Learning embedded systems, IoT security, and networking fundamentals.
-
-## ⚽ Beyond Engineering
-
-Football is one of my biggest passions. I'm especially interested in combining sports with technology through data analytics, artificial intelligence, and computer vision.
-
-I also enjoy learning new skills, exploring different areas of technology, and challenging myself with projects that push me beyond what I already know.
-
 
 ---
 
