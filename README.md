@@ -7,13 +7,6 @@
 </p>
 
 
-
-# Hi, I'm Rayan Rehou👋
-
-**Computer Engineering Student @ University of Ottawa 🇨🇦**
-
-I like writing code that makes things work, from embedded C/C++ on microcontrollers to Python web apps.
-
 ## 🛠️ Technical Skills & Tools
 
 #### **Languages**
