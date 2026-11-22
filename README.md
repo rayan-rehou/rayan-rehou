@@ -62,8 +62,6 @@
   <a href="https://www.linkedin.com/in/rayan-rehou/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1b2a.svg?style=for-the-badge&logo=linkedin&logoColor=36BCF7" width=200px />
   </a>
-    <img src="https://img.shields.io/badge/LeetCode-0d1b2a.svg?style=for-the-badge&logo=leetcode&logoColor=36BCF7" width=245px/>
-  </a>
   <a href="https://rayan-rehou.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0d1b2a.svg?style=for-the-badge&logo=googlechrome&logoColor=36BCF7" width=230px/>
   </a>
